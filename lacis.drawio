@@ -114,7 +114,7 @@
         <mxCell id="gzpW1YzoJddCeBnZML00-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#FFFFFF;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="571.7" y="484.43499999999995" as="sourcePoint" />
-            <mxPoint x="1192" y="484" as="targetPoint" />
+            <mxPoint x="1194" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gzpW1YzoJddCeBnZML00-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#FFFFFF;" parent="1" target="p4GV2qHJiXl9e6osWFzK-28" edge="1">
@@ -243,13 +243,13 @@
         <mxCell id="p4GV2qHJiXl9e6osWFzK-20" value="" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#585959;strokeColor=#000000;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;gradientColor=#E0E0E0;gradientDirection=south;" parent="1" vertex="1">
           <mxGeometry x="57" y="591" width="78" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="p4GV2qHJiXl9e6osWFzK-24" value="" style="points=[[0.015,0.015,0],[0.5,0,0],[0.985,0.015,0],[1,0.22,0],[0.985,0.43,0],[0.73,0.85,0],[0.5,1,0],[0.285,0.85,0],[0.015,0.43,0],[0,0.22,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.surveillance_camera;fillColor=#585959;strokeColor=#000000;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="p4GV2qHJiXl9e6osWFzK-24" value="" style="points=[[0.015,0.015,0],[0.5,0,0],[0.985,0.015,0],[1,0.22,0],[0.985,0.43,0],[0.73,0.85,0],[0.5,1,0],[0.285,0.85,0],[0.015,0.43,0],[0,0.22,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.surveillance_camera;fillColor=#000000;strokeColor=#000000;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="268" y="693" width="64" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p4GV2qHJiXl9e6osWFzK-25" value="" style="points=[[0.015,0.015,0],[0.5,0,0],[0.985,0.015,0],[1,0.22,0],[0.985,0.43,0],[0.73,0.85,0],[0.5,1,0],[0.285,0.85,0],[0.015,0.43,0],[0,0.22,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.surveillance_camera;fillColor=#585959;strokeColor=#000000;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="p4GV2qHJiXl9e6osWFzK-25" value="" style="points=[[0.015,0.015,0],[0.5,0,0],[0.985,0.015,0],[1,0.22,0],[0.985,0.43,0],[0.73,0.85,0],[0.5,1,0],[0.285,0.85,0],[0.015,0.43,0],[0,0.22,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.surveillance_camera;fillColor=#000000;strokeColor=#000000;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="457.99999999999994" y="693" width="64" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p4GV2qHJiXl9e6osWFzK-26" value="" style="points=[[0.015,0.015,0],[0.5,0,0],[0.985,0.015,0],[1,0.22,0],[0.985,0.43,0],[0.73,0.85,0],[0.5,1,0],[0.285,0.85,0],[0.015,0.43,0],[0,0.22,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.surveillance_camera;fillColor=#585959;strokeColor=#000000;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="p4GV2qHJiXl9e6osWFzK-26" value="" style="points=[[0.015,0.015,0],[0.5,0,0],[0.985,0.015,0],[1,0.22,0],[0.985,0.43,0],[0.73,0.85,0],[0.5,1,0],[0.285,0.85,0],[0.015,0.43,0],[0,0.22,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.surveillance_camera;fillColor=#000000;strokeColor=#000000;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="647.9" y="693" width="64" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p4GV2qHJiXl9e6osWFzK-33" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#585959;strokeColor=#000000;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;gradientColor=#E0E0E0;" parent="1" vertex="1">
