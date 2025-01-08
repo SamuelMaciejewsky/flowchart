@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="26.0.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0 (Edition std-2)" version="26.0.4">
   <diagram name="Página-1" id="QxZHuA9BTodlCsACra_R">
-    <mxGraphModel dx="1791" dy="541" grid="1" gridSize="2" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1237" dy="519" grid="1" gridSize="2" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,7 +151,7 @@
             <mxPoint x="304.0344827586207" y="755.37" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gzpW1YzoJddCeBnZML00-31" value="&lt;div&gt;Switch 1 DELL CORE&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.2.10&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;fillStyle=solid;shadow=0;" parent="1" vertex="1">
+        <mxCell id="gzpW1YzoJddCeBnZML00-31" value="&lt;div&gt;Switch 1 DELL CORE&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Layer 2 - Sem IP)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;fillStyle=solid;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="436" y="524" width="135" height="56" as="geometry" />
         </mxCell>
         <mxCell id="gzpW1YzoJddCeBnZML00-32" value="&lt;div&gt;CameraNVR-1&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.1.11&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;fillStyle=solid;shadow=0;" parent="1" vertex="1">
@@ -183,16 +183,16 @@
             <mxPoint x="1552" y="228.26999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gzpW1YzoJddCeBnZML00-42" value="&lt;div&gt;Switch 4 DELL SalaVidro&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.2.4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;fillStyle=solid;shadow=0;" parent="1" vertex="1">
+        <mxCell id="gzpW1YzoJddCeBnZML00-42" value="&lt;div&gt;Switch 4 DELL SalaVidro&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Layer 2 - Sem IP)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;fillStyle=solid;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1182.95" y="253" width="149.7" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="gzpW1YzoJddCeBnZML00-43" value="&lt;div&gt;Switch 5 DELL SalaSPD&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.2.5&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#F5F5F5;fontColor=#333333;strokeColor=#000000;fillStyle=solid;shadow=0;" parent="1" vertex="1">
+        <mxCell id="gzpW1YzoJddCeBnZML00-43" value="&lt;div&gt;Switch 5 DELL SalaSPD&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Layer 2 - Sem IP)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#F5F5F5;fontColor=#333333;strokeColor=#000000;fillStyle=solid;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1479.55" y="253" width="145.3" height="56" as="geometry" />
         </mxCell>
         <mxCell id="gzpW1YzoJddCeBnZML00-45" value="&lt;div&gt;WifiSala1&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.1.5&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;fillStyle=solid;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1507.3299999999997" y="532" width="89.75" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="gzpW1YzoJddCeBnZML00-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#FFFFFF;" parent="1" edge="1" source="p4GV2qHJiXl9e6osWFzK-42">
+        <mxCell id="gzpW1YzoJddCeBnZML00-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#FFFFFF;" parent="1" source="p4GV2qHJiXl9e6osWFzK-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1260" y="514" as="targetPoint" />
             <Array as="points">
@@ -202,14 +202,14 @@
             <mxPoint x="1480.0285714285715" y="724.8" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gzpW1YzoJddCeBnZML00-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#FFFFFF;" parent="1" edge="1" source="p4GV2qHJiXl9e6osWFzK-43">
+        <mxCell id="gzpW1YzoJddCeBnZML00-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#FFFFFF;" parent="1" source="p4GV2qHJiXl9e6osWFzK-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1240" y="514" as="targetPoint" />
             <Array as="points" />
             <mxPoint x="1240.0285714285715" y="724.8" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gzpW1YzoJddCeBnZML00-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#FFFFFF;" parent="1" edge="1" source="p4GV2qHJiXl9e6osWFzK-41">
+        <mxCell id="gzpW1YzoJddCeBnZML00-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#FFFFFF;" parent="1" source="p4GV2qHJiXl9e6osWFzK-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1221" y="514" as="targetPoint" />
             <Array as="points">
@@ -219,7 +219,7 @@
             <mxPoint x="1000.0285714285715" y="724.8" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gzpW1YzoJddCeBnZML00-52" value="&lt;div&gt;Switch 2 Aruba HP&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.2.2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;fillStyle=solid;shadow=0;" parent="1" vertex="1">
+        <mxCell id="gzpW1YzoJddCeBnZML00-52" value="&lt;div&gt;Switch 2 Aruba HP&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Layer 2 - Sem IP)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;fillStyle=solid;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1190.3" y="535" width="135" height="56" as="geometry" />
         </mxCell>
         <mxCell id="gzpW1YzoJddCeBnZML00-53" value="&lt;div&gt;MHDX-1&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.1.126&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;fillStyle=solid;shadow=0;" parent="1" vertex="1">
@@ -241,7 +241,7 @@
             <mxPoint x="962" y="228.26999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gzpW1YzoJddCeBnZML00-57" value="&lt;div&gt;Switch 3 TP-LINK SalaNupep&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.2.5&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;fillStyle=solid;shadow=0;" parent="1" vertex="1">
+        <mxCell id="gzpW1YzoJddCeBnZML00-57" value="&lt;div&gt;Switch 3 TP-LINK SalaNupep&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Layer 2 - Sem IP)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;fillStyle=solid;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="874.5500000000001" y="253" width="175.3" height="56" as="geometry" />
         </mxCell>
         <mxCell id="p4GV2qHJiXl9e6osWFzK-5" value="" style="shape=mxgraph.cisco.servers.fileserver;html=1;pointerEvents=1;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fillColor=#585959;strokeColor=#000000;fillStyle=auto;gradientColor=#E0E0E0;perimeterSpacing=1;shadow=0;gradientDirection=south;" parent="1" vertex="1">
@@ -316,10 +316,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BjdbWazUXjx8ErtOSyGp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B266FF;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="BjdbWazUXjx8ErtOSyGp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B266FF;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="96" y="224" width="8" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="BjdbWazUXjx8ErtOSyGp-2" value="No Data" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="BjdbWazUXjx8ErtOSyGp-2" value="No Data" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="105.3" y="214" width="83.7" height="30" as="geometry" />
         </mxCell>
       </root>
