@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="b8C02gfYpQdLl2ePiPMn-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#3B3B3B;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="278" y="110" width="464" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="SeEwRvXVfDvZCTH5SMne-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="SeEwRvXVfDvZCTH5SMne-8" target="SeEwRvXVfDvZCTH5SMne-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="194" y="782" as="sourcePoint" />
@@ -47,9 +50,6 @@
             <mxPoint x="490" y="646" as="sourcePoint" />
             <mxPoint x="540" y="596" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="b8C02gfYpQdLl2ePiPMn-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#3B3B3B;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="278" y="110" width="464" height="250" as="geometry" />
         </mxCell>
         <mxCell id="p4GV2qHJiXl9e6osWFzK-28" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#585959;strokeColor=#000000;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;gradientColor=#E0E0E0;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="447.3" y="457.23" width="125.15" height="54.4" as="geometry" />
