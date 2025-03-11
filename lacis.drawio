@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0 (Edition std-2)" version="26.0.11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0 (Edition std-2)" version="26.1.0">
   <diagram name="Página-1" id="QxZHuA9BTodlCsACra_R">
-    <mxGraphModel dx="1386" dy="611" grid="1" gridSize="2" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1098" dy="433" grid="1" gridSize="2" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,8 +9,8 @@
         </mxCell>
         <mxCell id="SeEwRvXVfDvZCTH5SMne-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;shape=link;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="184" y="728.272419409569" as="sourcePoint" />
-            <mxPoint x="449.29999999999995" y="726.7816260604004" as="targetPoint" />
+            <mxPoint x="184" y="759.272419409569" as="sourcePoint" />
+            <mxPoint x="449.29999999999995" y="757.7816260604004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SeEwRvXVfDvZCTH5SMne-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;shape=link;" parent="1" edge="1">
@@ -45,9 +45,9 @@
             <mxPoint x="510.28356785902156" y="226.26999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SeEwRvXVfDvZCTH5SMne-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;shape=link;" parent="1" edge="1">
+        <mxCell id="SeEwRvXVfDvZCTH5SMne-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shape=link;strokeColor=#FFFFFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="511.875" y="675.23" as="sourcePoint" />
+            <mxPoint x="512" y="730" as="sourcePoint" />
             <mxPoint x="511.875" y="511.6300000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -118,10 +118,10 @@
           <mxGeometry x="201.3" y="174" width="83.7" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SeEwRvXVfDvZCTH5SMne-1" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#585959;strokeColor=#000000;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;gradientColor=#E0E0E0;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="447.3" y="699.23" width="125.15" height="54.4" as="geometry" />
+          <mxGeometry x="447.3" y="730.23" width="125.15" height="54.4" as="geometry" />
         </mxCell>
         <mxCell id="SeEwRvXVfDvZCTH5SMne-2" value="&lt;div&gt;Switch HPE 1620-24G&lt;/div&gt;&lt;div&gt;192.168.1.240&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;fillStyle=solid;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="442" y="766" width="135" height="56" as="geometry" />
+          <mxGeometry x="442" y="797" width="135" height="56" as="geometry" />
         </mxCell>
         <mxCell id="SeEwRvXVfDvZCTH5SMne-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;shape=link;" parent="1" source="p4GV2qHJiXl9e6osWFzK-21" target="p4GV2qHJiXl9e6osWFzK-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -130,10 +130,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SeEwRvXVfDvZCTH5SMne-7" value="&lt;div&gt;WifiSala1&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.1.5&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;fillStyle=solid;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="101" y="766" width="82" height="56" as="geometry" />
+          <mxGeometry x="101" y="797" width="82" height="56" as="geometry" />
         </mxCell>
         <mxCell id="SeEwRvXVfDvZCTH5SMne-8" value="" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#585959;strokeColor=#000000;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;gradientColor=#E0E0E0;gradientDirection=south;" parent="1" vertex="1">
-          <mxGeometry x="101" y="702" width="81" height="53" as="geometry" />
+          <mxGeometry x="101" y="733" width="81" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
